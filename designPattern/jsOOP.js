@@ -40,3 +40,34 @@ parentObject.prototype.addOne = function() {
 
 inheritPrototype(childObject, parentObject);
 
+// Exploring Subclassing
+// SuperClass constructor
+var Vehicle = function Vehicle (wheels) {
+  this.wheels = wheels;
+  this.speed = 0;
+};
+
+// Instance methods
+Vehicle.prototype.go = function(speed) {
+  this.speed = speed;
+};
+
+// Subclassing
+var Car = function Car(color) {
+  this.color = color;
+  this.light = false;
+};
+Car.prototype = new Vehicle(4);             // construct prototype chain
+
+// Subclass prototype methods
+Car.prototype.beam = function() {
+  this.light = !this.light;
+};
+
+var cab = new Car("yellow");
+cab.go(40);
+cab.beam();
+
+console.log(cab);
+console.log(cab instanceof Car);
+console.log(cab instanceof Vehicle);
