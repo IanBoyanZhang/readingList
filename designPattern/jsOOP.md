@@ -25,6 +25,11 @@ When new constructFunc() is called JavaScript does four things:
 3. It sets up the object to delegate to constructFunc.prototype
 4. It calls constructFunc() in the context of new object
 
+Namespace:
+In JavaScript a namespace is just another object containing methods, properties, and objects
+
 References:
 [1] [OOP in JavaScript what you need to know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
 [2] [JavaScript constructors prototypes and the new keywords](http://blog.pivotal.io/labs/labs/javascript-constructors-prototypes-and-the-new-keyword)
+[3] [MDN JavaScript Introduction to OO JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript);
+  

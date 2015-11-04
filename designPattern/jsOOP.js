@@ -40,6 +40,9 @@ parentObject.prototype.addOne = function() {
 
 inheritPrototype(childObject, parentObject);
 
+console.log(childObject.constructor);
+
+
 // Exploring Subclassing
 // SuperClass constructor
 var Vehicle = function Vehicle (wheels) {
@@ -50,6 +53,7 @@ var Vehicle = function Vehicle (wheels) {
 // Instance methods
 Vehicle.prototype.go = function(speed) {
   this.speed = speed;
+  this.speed2 = speed;                      // Decorator?
 };
 
 // Subclassing
@@ -71,3 +75,36 @@ cab.beam();
 console.log(cab);
 console.log(cab instanceof Car);
 console.log(cab instanceof Vehicle);
+
+// Exploring subclass pattern using Object.create
+
+var Plane = function Plane(color) {
+  this.color = color;
+};
+
+// Reveal the prototype chain
+function create(parent) {
+  var F = function() {};
+  F.prototype = parent;
+  return new F();
+}
+
+var masterObject = { a: "masterObject value" };
+
+var object1 = create(masterObject);
+var object2 = create(masterObject);
+var object3 = create(masterObject);
+
+object3.a = "overriden value";
+console.log(object1);
+console.log(object2);
+console.log(object3);
+
+console.log(object1.a);
+console.log(object2.a);
+console.log(object3.a);
+
+masterObject.a = "new masterObject value";
+console.log(object1.a);
+console.log(object2.a);
+console.log(object3.a);
