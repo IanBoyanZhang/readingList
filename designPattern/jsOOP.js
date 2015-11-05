@@ -77,10 +77,14 @@ console.log(cab instanceof Car);
 console.log(cab instanceof Vehicle);
 
 // Exploring subclass pattern using Object.create
-
 var Plane = function Plane(color) {
-  this.color = color;
+  Vehicle.call(this, color);
+  this.wings = 2;
 };
+
+Plane.prototype = Object.create(Vehicle);
+Plane.prototype.contructor = Plane;
+console.log(Plane.constructor);
 
 // Reveal the prototype chain
 function create(parent) {
