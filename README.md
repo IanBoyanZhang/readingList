@@ -17,4 +17,5 @@ This repository will serve as an index of my general science and engineering edu
 5. Physics
 
 ...
+
 Track of all the resources that I use to help document my growth as an Engineer, as well as to help serve as a general engineering education resource aggregator for others.
