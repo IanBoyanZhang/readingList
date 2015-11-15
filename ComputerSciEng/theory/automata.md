@@ -52,6 +52,24 @@ Finite machine --> recognize regular languages
 
 Finite-state machines --> computational models for a small amount of memory, and do not maintain memory
 
+# Application of Automata Theory
+
+Automata theory is the basis for the theory of formal languages. 
+
+## Definitions for construction of formal language
+
+  1. A symbol is simply a character, an abstraction that is meaningless by itself.
+
+  2. An alphabet is a finite set of symbols.
+
+  3. A word is a finite string of symbols from a given alphabet.
+
+  4. Finally, a language is a set of words formed from a given alphabet.
+
+## Complexity of a language
+
+P, NP, exponential, probabilistic ...
+
 References:
 
 1. [What is the use of studying "Automata Theory and Formal Language" in Computer Science](https://www.quora.com/What-is-the-use-of-studying-Automata-Theory-and-Formal-Language-in-Computer-Science)
