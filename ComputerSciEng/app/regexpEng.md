@@ -100,4 +100,4 @@ References:
 
 3. [REGEX in C](http://modelingwithdata.org/pdfs/176-regex.pdf) from Ben Klemens book: Modeling with Data
 
-4. [Book: Beautiful Code]
+4. Book: Beautiful Code Chapter 1
