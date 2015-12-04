@@ -29,3 +29,45 @@ function run() {
 }
 
 run();
+
+/**
+ * Namespace sample
+ *
+ */
+var Namespace = {
+  Util: {
+    util_method1: function() {},
+    util_method2: function() {}
+  },
+  Ajax: {
+    ajax_method: function() {}
+  },
+  some_method: function() {}
+};
+
+Namespace.Util.util_method1();
+
+
+/**
+ * Page specific code
+ *
+ */
+Namespace.homepage = {
+  init: function() {},
+  method1: function() {},
+  method2: function() {}
+};
+
+Namespace.contactpage = {
+  init: function() {},
+  method1: function() {},
+  method2: function() {}
+};
+
+Namespace.pageutil = {
+  getPageName: function() {
+  }
+};
+
+var pageName = Namespace.pageutil.getPageName();
+window.onload = Namespace[pageName].init;
