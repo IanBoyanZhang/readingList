@@ -10,6 +10,10 @@
  * The root node can have as few as 2 children if it is an internal node, and can obviously have no children if the root node is a leaf (that is, the tree 
  * consists only of the root node)
  * Each leaf node (other than the root node if it is a leaf) must contain at least ceil(m/2) - 1 keys
+ *
+ * Order(m) of B tree defines (max and min) no. of children for a particular node
+ * Degree(t) of B tree defines (max and min) no. of keys for a particular node. Degree is defined as minimum degree of B-tree
+ * A B-tree of order m 
  */
 
 /**
@@ -25,19 +29,20 @@ var BTree = function(order) {
 //  this.isLeaf = isLeaf;
   this.values = [];                 // array holde the 3 keys
   this.children = [];               // array of fake pointers (record numbers)
-
   // this.parent = undefined;
 };
 
-BTree.prototype.insert = function(value) {
+BTree.prototype.insert = function(value, comparator) {
   // Check if there is an open position
   var slot = this.openSlotPos(value);
   if (slot !== null) {
     this.insert.call(this.children[slot], value);
   } else {
     this.values.push(value);
-    
-    // need to sort the result
+    this.sortNode(comparator);
+    if (this.isOverloaded()) {
+      this.split();
+    }
   }
 };
 
@@ -83,11 +88,12 @@ BTree.prototype.openSlotPos = function(value) {
     return null;
   }
   else {
-    var i = 0, len = this.values.length;
-    while (i < len && value >= this.values[i]) {
-      i+=1;
+    for (var i = 0, len = this.values.length; i < len; i+=1) {
+      if (value < this.values[i]) {
+        return i;
+      }
     }
-    return i;
+    return len;
   }
 };
 
@@ -101,10 +107,38 @@ BTree.prototype.print = function() {
   return JSON.stringify(results);
 };
 
+// Numerical Sort
+BTree.prototype.sortNode = function(comparator) {
+/*  this.values.sort(function(a, b){
+    return a - b;
+  });*/
+  this.values.sort(comparator);
+};
+
+BTree.prototype.isOverloaded = function() {
+  return this.values.length === this.order;
+};
+
+BTree.prototype.split = function() {
+  // tracking the median item
+  var leftNode = new BTree(this.order);
+  var rightNode = new BTree(this.order);
+
+  var med = Math.ceil(this.order/2) - 1;
+  leftNode.values = this.values.splice(0, med);
+  var median = this.values.splice(0, 1);
+  rightNode.values= this.values.splice(0);
+  
+  for (var i = 0, len = this.children.length; i < )
+};
 
 // local test utility
 
 var Tree = new BTree(5);
-Tree.insert(10);
+Tree.insert("C");
+Tree.insert("N");
+Tree.insert("G");
+Tree.insert("A");
+Tree.insert("H");
 // console.log(Tree.openSlotPos(10));
-// console.log(Tree.print());
+console.log(Tree.print());
