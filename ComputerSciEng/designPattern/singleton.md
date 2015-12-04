@@ -19,4 +19,5 @@ References:
 
 [1] [Do factory: Singleton Design Pattern in JS](http://www.dofactory.com/javascript/singleton-design-pattern)
 
-[2] [Joe Zim`js JavaScript Design Patterns: Singleton]http://www.joezimjs.com/javascript/javascript-design-patterns-singleton/()
+[2] [Joe Zim`js JavaScript Design Patterns: Singleton](http://www.joezimjs.com/javascript/javascript-design-patterns-singleton/)
+

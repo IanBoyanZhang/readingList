@@ -71,3 +71,52 @@ Namespace.pageutil = {
 
 var pageName = Namespace.pageutil.getPageName();
 window.onload = Namespace[pageName].init;
+
+
+/**
+ * Singleton with a cached static property
+ *
+ */
+function User() {
+  if (typeof User.instance === 'object') {
+    return User.instance;
+  }
+
+  this.firstName = 'John';
+  this.lastName = 'Doe';
+
+  // cache
+  User.instance = this;
+
+  // implicit return
+  // return this
+}
+
+/**
+ * Singleton with a closure
+ *
+ */
+function User() {
+  // the cached instance
+  var instance;
+
+  // rewrite the constructor
+  User = function() {
+    return instance;
+  };
+
+  // carry over the prototype
+  User.prototype = this;
+
+  // the instance
+  instance = new User();
+
+  // reset the constructor pointer
+  instance.constructor = User;
+
+  // all the functionality
+  instance.firstName = 'John';
+  instance.lastName = 'Doe';
+
+  return instance;
+}
