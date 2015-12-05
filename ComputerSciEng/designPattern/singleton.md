@@ -15,6 +15,12 @@ Several other patterns, such as Factory, Prototype, and Facade are frequently im
 In many cases, some pages of a site run different JavaScript code than other pages. You can use the singleton namespacing technique to encapsulate page-specific
 code and have it run when the page is finished loading
 
+"Whilst has valid uses, often we find ourselves needing it in JavaScript that we may need to re-evaluate our design"
+
+"They're often an indication that modules in a system are either tightly coupled or that logic is overly spread across multiple parts of a codebase."
+
+"Singleton can be difficult to test due to issues ranging from hidden dependencies, the difficulty in creating multiple instances, difficulty in stubbing dependencies and so on"
+
 References:
 
 [1] [Do factory: Singleton Design Pattern in JS](http://www.dofactory.com/javascript/singleton-design-pattern)
