@@ -6,8 +6,6 @@
 var MaxKeys = 11;
 var MaxKeysPlusOne = MaxKeys + 1;
 
-var 
-
 
 var BTree = function(order) {
 
