@@ -32,3 +32,5 @@ References:
 
 [1] [Heap (data structure)](https://en.wikipedia.org/wiki/Heap_(data_structure))
 
+[2] [JavaScript binary heap implementation](http://eloquentjavascript.net/1st_edition/appendix2.html)
+

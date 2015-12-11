@@ -2,7 +2,6 @@
  * Heap implementation in JS
  * minHeap
  * No two same value in data structure
- * TODO: binary heap later
  */
 var Heap = function() {
   this.array = [];
@@ -73,3 +72,37 @@ Heap.prototype.sinkDown = function(n) {
     n = swap;
   }
 };
+
+Heap.prototype.remove = function(node) {
+  var len = this.array.length;
+  for (var i = 0; i < len; i+=1) {
+    if (this.array[i] !== node) continue;
+    // When it is found, the process seen in 'pop' is repeated 
+    // to fill up the hole
+
+    var end = this.array.pop();
+    // If the element we poped was the one we needed to remove, we are done
+    if (i === len - 1) break;
+
+    this.array[i] = end;
+    this.bubbleup(i);
+    this.sinkDown(i);
+    break;
+  }
+};
+
+Heap.prototype.size = function() {
+  return this.array.length;
+};
+
+var heap = new Heap();
+var arr = [10, 3, 4, 8, 2, 9, 7, 1, 2, 6, 5];
+console.log("This is the length", arr.length);
+[10, 3, 4, 8, 2, 9, 7, 1, 2, 6, 5].forEach(function(x) {
+  heap.push(x);
+});
+
+heap.remove(2);
+while (heap.size() > 0) {
+  console.log(heap.pop());
+}

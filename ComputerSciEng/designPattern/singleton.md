@@ -27,3 +27,4 @@ References:
 
 [2] [Joe Zim`js JavaScript Design Patterns: Singleton](http://www.joezimjs.com/javascript/javascript-design-patterns-singleton/)
 
+[3] [Know when to use Singleton from IBM](http://www.ibm.com/developerworks/webservices/library/co-single/index.html)
