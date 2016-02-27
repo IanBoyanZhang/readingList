@@ -16,3 +16,14 @@ References:
 (http://electronics.stackexchange.com/questions/152692/what-technique-can-i-use-to-focus-a-bluetooth-4-transmission-or-at-least-shield)
 
 [Practical Antenna Design 140-150MHz VHF Transceivers](http://www.miklor.com/COM/pdf/PracAntDesignVHF.pdf)
+
+### TI Notes
+
+AN058
+[TI Antenna Reference Design Application Notes](http://www.ti.com/lit/an/swra161b/swra161b.pdf)
+
+DNO34
+[Antenna Selection Guide](http://www.ti.com/lit/an/swra351a/swra351a.pdf)
+
+Laird Tech
+[Larid EMI Shielding Design and Calculation](https://www.digikey.com/Web%20Export/Supplier%20Content/Laird_776/PDF/Laird_EMI_Shielding_Design_Calculation.pdf?redirected=1)
