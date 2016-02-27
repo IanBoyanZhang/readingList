@@ -1,5 +1,5 @@
 # Education
-Recording all articles about Computer Science and Engineering I have been 
+Recording all articles about STEM (Science, Technology, Engineering, and Mathematics) I have been reading or would like to read 
 
 Codes snippest I wrote along the way
 
@@ -18,4 +18,4 @@ This repository will serve as an index of my general science and engineering edu
 
 ...
 
-Track of all the resources that I use to help document my growth as an Engineer, as well as to help serve as a general engineering education resource aggregator for others.
+Track of all the resources that I use to help document my growth as an engineer, as well as to help serve as a general engineering education resource aggregator for others.
