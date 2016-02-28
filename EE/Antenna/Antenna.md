@@ -30,3 +30,7 @@ Laird Tech
 
 ### General Antenna Design Guide
 [The dropouts guide to antenna design](http://colinkarpfinger.com/blog/2010/the-dropouts-guide-to-antenna-design/)
+
+[Hackaday PCB trace design](http://hackaday.com/2010/08/05/pcb-trace-antenna/)
+
+[Hackaday Preparing your pcb design for manufacture](http://hackaday.com/2010/06/15/preparing-your-pcb-design-for-manufacture/)
