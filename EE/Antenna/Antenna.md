@@ -27,3 +27,6 @@ DNO34
 
 Laird Tech
 [Larid EMI Shielding Design and Calculation](https://www.digikey.com/Web%20Export/Supplier%20Content/Laird_776/PDF/Laird_EMI_Shielding_Design_Calculation.pdf?redirected=1)
+
+### General Antenna Design Guide
+[The dropouts guide to antenna design](http://colinkarpfinger.com/blog/2010/the-dropouts-guide-to-antenna-design/)
