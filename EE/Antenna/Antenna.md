@@ -31,6 +31,21 @@ Laird Tech
 ### General Antenna Design Guide
 [The dropouts guide to antenna design](http://colinkarpfinger.com/blog/2010/the-dropouts-guide-to-antenna-design/)
 
+[PCB Antenna Reference Designs](http://hackaday.com/2014/02/28/pcb-antenna-reference-designs/)
+
 [Hackaday PCB trace design](http://hackaday.com/2010/08/05/pcb-trace-antenna/)
 
 [Hackaday Preparing your pcb design for manufacture](http://hackaday.com/2010/06/15/preparing-your-pcb-design-for-manufacture/)
+
+### RF shielding
+
+[RF Shielding the art and science of eliminating interference](http://www.digikey.com/en/articles/techzone/2013/jan/rf-shielding-the-art-and-science-of-eliminating-interference)
+
+### 
+
+[Interaction between mobile terminal antenna and user](http://lib.tkk.fi/Dipl/2007/urn009933.pdf)
+
+Meander like antenna
+[Low cost PCB antenna for 2.4GHz radio Meander design](http://www.st.com/web/en/resource/technical/document/application_note/DM00024648.pdf)
+
+Radiation Pattern visualization from page 12
