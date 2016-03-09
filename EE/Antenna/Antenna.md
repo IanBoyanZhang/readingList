@@ -4,6 +4,13 @@ References:
 
 2. [Microstrip Antenna Array for Beamforming Systems](http://pe.org.pl/articles/2012/11a/39.pdf)
 
+Refer Circuit/analysis for 50ohm and impedence matching
+
+3. [Chuck Fung Antenna Survey](https://www.wpi.edu/Pubs/E-project/Available/E-project-042811-161838/unrestricted/ChuckFungFinalMQPpaper2.pdf)
+
+Substrate material:
+
+
 ## Directional Antenna
 
 ### YAGI Antenna
@@ -16,6 +23,20 @@ References:
 (http://electronics.stackexchange.com/questions/152692/what-technique-can-i-use-to-focus-a-bluetooth-4-transmission-or-at-least-shield)
 
 [Practical Antenna Design 140-150MHz VHF Transceivers](http://www.miklor.com/COM/pdf/PracAntDesignVHF.pdf)
+
+### Patch Antenna
+
+[Directional Patch Antenna Array Design for Desktop Wireless internet Cal Poly Senior Project](http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1068&context=eesp)
+
+Feed point/Feed network?
+
+Probe location?
+
+Wilkinson (Power) Divider
+
+[Microstrip Patch Array Design](https://www.cst.com/Applications/Article/Microstrip-Patch-Array-Design)
+
+Feed network?
 
 ### Application Notes
 
@@ -40,11 +61,13 @@ Laird Tech
 
 [Hackaday Preparing your pcb design for manufacture](http://hackaday.com/2010/06/15/preparing-your-pcb-design-for-manufacture/)
 
-### RF shielding
+### RF shielding and interference
 
 [RF Shielding the art and science of eliminating interference](http://www.digikey.com/en/articles/techzone/2013/jan/rf-shielding-the-art-and-science-of-eliminating-interference)
 
-### 
+[]()
+
+### Radiation Pattern
 
 [Interaction between mobile terminal antenna and user](http://lib.tkk.fi/Dipl/2007/urn009933.pdf)
 
@@ -52,3 +75,9 @@ Meander like antenna
 [Low cost PCB antenna for 2.4GHz radio Meander design](http://www.st.com/web/en/resource/technical/document/application_note/DM00024648.pdf)
 
 Radiation Pattern visualization from page 12
+
+[Radiation patterns and total radiated power TRP tested yourself](http://www.gsm-modem.de/M2M/m2m-componets/radiation-patterns-and-total-radiated-power-trp-tested-yourself/)
+
+### Material
+
+[FR-4 substrate](https://en.wikipedia.org/wiki/FR-4)

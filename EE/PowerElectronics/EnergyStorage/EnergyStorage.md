@@ -17,6 +17,11 @@ Physically larger battery comparision
 
 [Common 26650 bat comparator](http://lygte-info.dk/review/batteries2012/Common26650comparator.php)
 
+## Self discharge
+
+[Difference in self discharge rate between lithium iron phosphate battery lithium polymer battery]
+(http://electronics.stackexchange.com/questions/131568/difference-in-self-discharge-rate-between-lithium-iron-phosphate-battery-vs-lith)
+
 # Sourcing
 Tenergy
 
