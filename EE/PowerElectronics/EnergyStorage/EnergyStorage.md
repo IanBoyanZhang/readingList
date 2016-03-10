@@ -1,13 +1,21 @@
+# Definitions
+
 The main difference between Capacitor and Battery:
 "While batteries and capacitors have similarities, there are several key differences. 
 The potential energy in a capacitor is stored in an electric field, where a battery stores its potential energy in a chemical form."
+
+1. [Primary and Secondary batteries](https://www.chem.wisc.edu/deptfiles/genchem/netorial/rottosen/tutorial/modules/electrochemistry/06battery/18_61.htm)
+
+  A primary battery is a portable voltaic cell that is not rechargeable.
+
+  A secondary battery is a portable voltaic cell that is rechargeable.
 
 
 # Li Battery
 
 ## LiFe vs LiPo
 
-[Stackexchange LiFeO4 vs LiPo](http://electronics.stackexchange.com/questions/172002/lifepo4-vs-lipo)
+Stackexchange LiFeO4 vs LiPo](http://electronics.stackexchange.com/questions/172002/lifepo4-vs-lipo)
 
 # Battery Size
 
