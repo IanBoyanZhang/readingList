@@ -22,6 +22,13 @@ Physically larger battery comparision
 [Difference in self discharge rate between lithium iron phosphate battery lithium polymer battery]
 (http://electronics.stackexchange.com/questions/131568/difference-in-self-discharge-rate-between-lithium-iron-phosphate-battery-vs-lith)
 
+Paper:
+
+Is LiFePO4 Technology Ready for Internet of Things?
+
+Tsinghua University
+LiFePO4 battery performances testing and analyzing for BMS
+
 # Sourcing
 Tenergy
 
