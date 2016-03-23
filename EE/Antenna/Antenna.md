@@ -64,6 +64,18 @@ Laird Tech
 
 [Hackaday Preparing your pcb design for manufacture](http://hackaday.com/2010/06/15/preparing-your-pcb-design-for-manufacture/)
 
+[Microstrip patch antenna 101](http://www.microwaves101.com/encyclopedias/microstrip-patch-antennas)
+
+"The dielectric constant that controls the resonance of the antenna is the effective dielectric constant of the microstripe line"
+
+Determine the dimension
+
+[A Designer`s Guide To Microstripe line](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiF36Dxi9bLAhVV-mMKHUekAb4QFggdMAA&url=http%3A%2F%2Ftraktoria.org%2Ffiles%2Fradio%2Fmicrostrip_and_stripline_design%2Fa_designers_guide_to_microstrip_line.pdf&usg=AFQjCNHrpFstiCPZ-PS2YvI_6hrbbXlLPA&sig2=db_7QqJRJcAvC-TCEiqThA)
+
+### General Selection Guide
+
+[Selecting Antennas for embedded designs](http://www.digikey.com/en/articles/techzone/2012/nov/selecting-antennas-for-embedded-designs)_
+
 ### RF shielding and interference
 
 [RF Shielding the art and science of eliminating interference](http://www.digikey.com/en/articles/techzone/2013/jan/rf-shielding-the-art-and-science-of-eliminating-interference)
