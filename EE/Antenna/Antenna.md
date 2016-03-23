@@ -10,6 +10,7 @@ Refer Circuit/analysis for 50ohm and impedence matching
 
 Substrate material:
 
+4. [Yet another Antenna knowledge collection](http://www.w8ji.com/antennas.htm)
 
 ## Directional Antenna
 
@@ -23,6 +24,8 @@ Substrate material:
 (http://electronics.stackexchange.com/questions/152692/what-technique-can-i-use-to-focus-a-bluetooth-4-transmission-or-at-least-shield)
 
 [Practical Antenna Design 140-150MHz VHF Transceivers](http://www.miklor.com/COM/pdf/PracAntDesignVHF.pdf)
+
+[Skin depth, shielding and many more](http://www.w8ji.com/skindepth.htm)
 
 ### Patch Antenna
 
