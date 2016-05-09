@@ -163,3 +163,5 @@ GAP
 GATT
 
 ATT
+
+[CCCD](https://developer.bluetooth.org/gatt/descriptors/Pages/DescriptorViewer.aspx?u=org.bluetooth.descriptor.gatt.client_characteristic_configuration.xml)
