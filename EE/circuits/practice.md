@@ -15,6 +15,27 @@ How to observer pull up/down resistor using logic analyzer
 
 [Mechanical Relay Primer](http://www.phidgets.com/docs/Mechanical_Relay_Primer)
 
+[Ignition Coil](http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/ignition.html)
+
+## Transistor
+
+NPN vs PNP
+
+Ic
+
+Sourcing current
+
+1 [Choosing the right transistor for a switching circuit](http://electronics.stackexchange.com/questions/29029/choosing-the-right-transistor-for-a-switching-circuit)
+
+2. [Why do I need a transistor to control a relay with an arduino and which one should use]
+(http://electronics.stackexchange.com/questions/102307/why-do-i-need-a-transistor-to-control-a-relay-with-an-arduino-and-which-one-sho)
+
+### Example
+
+Using IRF510 as a switch
+
+[On using an IRF510 as a switch](http://brainwagon.org/2011/10/26/on-using-an-irf510-as-a-switch/)
+
 References:
 
 1. [Decoding resistor markings](https://learn.sparkfun.com/tutorials/resistors/decoding-resistor-markings)
