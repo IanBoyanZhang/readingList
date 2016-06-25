@@ -10,6 +10,11 @@ Bootup time/MCU failure, defined behavior/state
 How to observer pull up/down resistor using logic analyzer
 [Does nRF51 has optional internal pullup resistor](https://devzone.nordicsemi.com/question/61466/does-nrf51-has-optional-internal-pullup-resistors-on-some-pins/)
 
+# Relays
+[Transistors relays and controlling high current loads](https://itp.nyu.edu/physcomp/lessons/electronics/transistors-relays-and-controlling-high-current-loads/)
+
+[Mechanical Relay Primer](http://www.phidgets.com/docs/Mechanical_Relay_Primer)
+
 References:
 
 1. [Decoding resistor markings](https://learn.sparkfun.com/tutorials/resistors/decoding-resistor-markings)
