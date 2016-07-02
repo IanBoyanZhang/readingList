@@ -30,11 +30,24 @@ Sourcing current
 2. [Why do I need a transistor to control a relay with an arduino and which one should use]
 (http://electronics.stackexchange.com/questions/102307/why-do-i-need-a-transistor-to-control-a-relay-with-an-arduino-and-which-one-sho)
 
+3. [How to use a 3V output to control a 5v relay](http://electronics.stackexchange.com/questions/56093/how-to-use-a-3v-output-to-control-a-5v-relay)
+
+# Opto-isolator
+Opto-coupler
+
+EL817 vs MOC3063
+
+EL817 output stage      --> phototransistor
+MOC3063 output stage    --> silicon-controlled rectifier/triac
+
+[Difference between zero crossing optoisolator and regular isolator]
+(http://electronics.stackexchange.com/questions/17795/difference-between-zero-crossing-optoisolator-and-regular-optoisolator)
+
 ### Example
 
 Using IRF510 as a switch
 
-[On using an IRF510 as a switch](http://brainwagon.org/2011/10/26/on-using-an-irf510-as-a-switch/)
+
 
 References:
 
