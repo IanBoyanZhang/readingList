@@ -47,7 +47,11 @@ MOC3063 output stage    --> silicon-controlled rectifier/triac
 
 Using IRF510 as a switch
 
+# Capacity and parasite capacity
 
+
+# Interface circuit
+[TI 430 5v to 3.3v interface circuit](http://www.ti.com/lit/an/slaa148/slaa148.pdf)
 
 References:
 
