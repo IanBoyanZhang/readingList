@@ -96,3 +96,7 @@ Radiation Pattern visualization from page 12
 ### Material
 
 [FR-4 substrate](https://en.wikipedia.org/wiki/FR-4)
+
+### Practice and Application notes
+
+ST AN2866 Application Note: How to design a 13.56 MHz customized tag antenna
