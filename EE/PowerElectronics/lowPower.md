@@ -17,3 +17,27 @@ Low duty cycle application:
 ## Terminology
 
 LDO (low drop out)
+
+
+Good RF performance
+
+Low voltage ripple, ripple can impact the sensitivity or generate spurs due to the inter modulation
+
+Influence factors are 
+
+DC/DC converter type
+Switching frequency
+Ripple rejection of the radio`s internal voltage regulator
+Configuration of the radio (in terms of intermediate frequency IF)
+Receiver Filter bandwidth
+
+The recommended IF and receiver filter bandwidth is different for different data rates and
+different radio
+
+Common for all LPW devices is that the IF and filter bandwidth are optimized with respect to sensitivity, frequency offset, and stable operation across
+
+Temperature,
+Supply Voltage
+Process variation
+
+Supply voltage with low ripple is required to achieve good RF performance. Ripple can impact the sensitivity or generate spurs due to inter-modulation.
