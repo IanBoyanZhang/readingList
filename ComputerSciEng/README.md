@@ -11,3 +11,7 @@ Codes snippest I wrote along the way
 tradition" -- Eric Roberts
 
 [The Intellectual Excitement of Computer Science](http://cs.stanford.edu/people/eroberts/courses/soco/)
+
+
+## interview material
+See design patterns
