@@ -5,3 +5,10 @@ References:
 [2] [JavaScript Patterns Stoyan Stefanov](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752)
 
 [3] [Essential JavaScript Design Patterns Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/)
+
+## Mediator
+
+Disadvantage: Single Point of Failure，Performance
+
+Mediator Vs. Facade
+

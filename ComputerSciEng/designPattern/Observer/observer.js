@@ -61,10 +61,10 @@ Subject.prototype.notify = function( context ){
 
 
 function Observer(){
-  // this.update = function(args){
-  //   console.log('Update', args);
-  //   // ...
-  // };
+  this.update = function(args){
+    console.log('Update', args);
+    // ...
+  };
 }
 
 // References to our DOM elements
