@@ -8,3 +8,5 @@ References
 [Understand Node.js event loop](http://stackoverflow.com/questions/10680601/nodejs-event-loop)
 
 [Libuv book](http://luohaha.github.io/Chinese-uvbook/index.html)
+
+[Javascript V8 blog](https://v8project.blogspot.com/)
