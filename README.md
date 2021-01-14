@@ -23,6 +23,7 @@ Track of all the resources that I use to help document my growth as an engineer,
 
 ### Courses (TODO)
 
+[MIT Radar Course](http://radar-course.org/)
 
 [Microwave antenna](https://www.coursera.org/learn/microwave-antenna)
 
@@ -39,3 +40,11 @@ University of Colorado
 Looks pretty interesting
 
 [University of Colorado Electomagnetics RF microwaves and remote sensing](https://www.colorado.edu/ecee/online-masters/curriculum/electromagnetics-rf-microwaves-and-remote-sensing)
+
+[Coursea MSEE Boulder Academics](https://www.coursera.org/degrees/msee-boulder/academics)
+
+[(Digitalisation in Aeronautics and Space Specialization) Aerospace](https://www.coursera.org/specializations/aerospace)
+
+[SpaceCraft Dynamics Control](https://www.coursera.org/specializations/spacecraft-dynamics-control)
+
+[Semiconductor devices](https://www.coursera.org/specializations/semiconductor-devices)
