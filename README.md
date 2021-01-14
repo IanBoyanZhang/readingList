@@ -19,3 +19,23 @@ This repository will serve as an index of my general science and engineering edu
 ...
 
 Track of all the resources that I use to help document my growth as an engineer, as well as to help serve as a general engineering education resource aggregator for others.
+
+
+### Courses (TODO)
+
+
+[Microwave antenna](https://www.coursera.org/learn/microwave-antenna)
+
+University of Colorado
+[Optical Enginnering](https://www.coursera.org/specializations/optical-engineering)
+
+[Algorithms for battery management systems](https://www.coursera.org/specializations/algorithms-for-battery-management-systems)
+
+[Active optical Devices](https://www.coursera.org/specializations/active-optical-devices)
+[Led SemiConductor Lasers](https://www.coursera.org/learn/leds-semiconductor-lasers)
+
+[Power Electronics Boulder](https://www.coursera.org/mastertrack/power-electronics-boulder)
+
+Looks pretty interesting
+
+[University of Colorado Electomagnetics RF microwaves and remote sensing](https://www.colorado.edu/ecee/online-masters/curriculum/electromagnetics-rf-microwaves-and-remote-sensing)
