@@ -6,3 +6,7 @@
 Lawrence C. Evans
 
 [Entropy and PDE](https://math.berkeley.edu/~evans/entropy.and.PDE.pdf)
+
+After reading this, Control, PDE and optimization starts making sense
+
+[Optimization with Differential Equations](http://www.mat.uc.pt/eopt/6sessao-eopt.pdf)
