@@ -4,6 +4,11 @@
 
 [Riccati Equation](https://en.wikipedia.org/wiki/Riccati_equation)
 
+[Optimization Overview](https://www.ics.uci.edu/~xhx/courses/CS206/optimization_overview.pdf)
+
+### Tutorial series
+
+[UCI CS 206: Principles of Scientific Computing](https://www.ics.uci.edu/~xhx/courses/CS206/)
 
 ## Implementation
 
