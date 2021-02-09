@@ -1,5 +1,7 @@
 ## Theory
 
+[Categories of Optimization](https://optimization.mccormick.northwestern.edu/index.php/Main_Page)
+
 [Riccati Equation](https://en.wikipedia.org/wiki/Riccati_equation)
 
 
