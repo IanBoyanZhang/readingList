@@ -4,6 +4,8 @@
 
 [Riccati Equation](https://en.wikipedia.org/wiki/Riccati_equation)
 
+Also good overview on opt software design tree
+
 [Optimization Overview](https://www.ics.uci.edu/~xhx/courses/CS206/optimization_overview.pdf)
 
 ### Tutorial series
