@@ -13,3 +13,5 @@ References:
 5. [Modern Game Console Hacking](https://www.cs.arizona.edu/~collberg/Teaching/466-566/2014/Resources/presentations/2012/topic1-final/report.pdf)
 
 6. [Practical Reverse Engineering Malware download](https://grsecurity.net/malware_research/)
+
+7. [Igor-blue Intel Graphics Stack](https://igor-blue.github.io/)
