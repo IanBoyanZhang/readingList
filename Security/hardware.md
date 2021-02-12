@@ -15,3 +15,5 @@ References:
 6. [Practical Reverse Engineering Malware download](https://grsecurity.net/malware_research/)
 
 7. [Igor-blue Intel Graphics Stack](https://igor-blue.github.io/)
+
+8. [LKV373A is a cheap HDMI to Ethernet converter](https://github.com/v3l0c1r4pt0r/lkv-wiki/wiki)
