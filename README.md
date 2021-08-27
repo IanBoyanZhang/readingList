@@ -48,3 +48,7 @@ Looks pretty interesting
 [SpaceCraft Dynamics Control](https://www.coursera.org/specializations/spacecraft-dynamics-control)
 
 [Semiconductor devices](https://www.coursera.org/specializations/semiconductor-devices)
+
+## A series of How to learn tutorials
+
+[João Nuno Carvalho](https://github.com/joaocarvalhoopen)
