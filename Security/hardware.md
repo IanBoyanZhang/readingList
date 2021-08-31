@@ -17,3 +17,10 @@ References:
 7. [Igor-blue Intel Graphics Stack](https://igor-blue.github.io/)
 
 8. [LKV373A is a cheap HDMI to Ethernet converter](https://github.com/v3l0c1r4pt0r/lkv-wiki/wiki)
+
+
+linux on systems
+
+[Linux on systems](https://www.ibm.com/docs/en/linux-on-systems?topic=shutdown-kaslr)
+
+[Address space layout randomization](https://en.wikipedia.org/wiki/Address_space_layout_randomization)
