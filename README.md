@@ -52,3 +52,8 @@ Looks pretty interesting
 ## A series of How to learn tutorials
 
 [João Nuno Carvalho](https://github.com/joaocarvalhoopen)
+
+
+## Science and Tech publication
+
+[ArteHouse](https://us.artechhouse.com/storehome.aspx)
