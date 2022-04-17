@@ -7,3 +7,5 @@ Collaborative Collection of C++ Best Practices. This online resource is part of 
 List of materials about functional programming in C++ 
 
 [Functional Programming in C++](https://github.com/graninas/cpp_functional_programming)
+
+[cpp_tip_of_the_week](https://github.com/QuantlabFinancial/cpp_tip_of_the_week)
