@@ -57,3 +57,7 @@ Looks pretty interesting
 ## Science and Tech publication
 
 [ArteHouse](https://us.artechhouse.com/storehome.aspx)
+
+## Other
+
+[A log of things I'm learning](https://github.com/amitness/learning)
