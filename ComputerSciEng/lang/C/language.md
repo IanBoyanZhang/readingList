@@ -9,3 +9,5 @@ List of materials about functional programming in C++
 [Functional Programming in C++](https://github.com/graninas/cpp_functional_programming)
 
 [cpp_tip_of_the_week](https://github.com/QuantlabFinancial/cpp_tip_of_the_week)
+
+[Is it good practice to free a null pointer in C](https://stackoverflow.com/questions/6084218/is-it-good-practice-to-free-a-null-pointer-in-c)
