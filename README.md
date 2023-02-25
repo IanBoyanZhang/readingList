@@ -53,6 +53,7 @@ Looks pretty interesting
 
 [João Nuno Carvalho](https://github.com/joaocarvalhoopen)
 
+[Engineering at google Lessons Learned from Programming Over Time](http://repository.itb-ad.ac.id/153/1/438.%20Software%20Engineering%20at%20Google.pdf)
 
 ## Science and Tech publication
 
