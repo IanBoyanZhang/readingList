@@ -12,3 +12,5 @@ Tencent security guideline
 InfoSec and reverse engineering team.
 
 [zyantific](https://github.com/zyantific)
+
+[One key for quickly decompile apk/aar/dex/jar, support by jadx/dex2jar/enjarify](https://github.com/tp7309/TTDeDroid)
