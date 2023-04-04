@@ -14,3 +14,7 @@ InfoSec and reverse engineering team.
 [zyantific](https://github.com/zyantific)
 
 [One key for quickly decompile apk/aar/dex/jar, support by jadx/dex2jar/enjarify](https://github.com/tp7309/TTDeDroid)
+
+x64 Dynamic Reverse Engineering Toolkit
+
+[ReverseKit](https://github.com/zer0condition/ReverseKit)
