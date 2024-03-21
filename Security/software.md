@@ -18,3 +18,6 @@ InfoSec and reverse engineering team.
 x64 Dynamic Reverse Engineering Toolkit
 
 [ReverseKit](https://github.com/zer0condition/ReverseKit)
+
+
+[Beginners guide constant time cryptography](https://www.chosenplaintext.ca/articles/beginners-guide-constant-time-cryptography.html)
